@@ -1,3 +1,5 @@
+# DGE_Candida_albicans
+code for differential gene expression of Candida albicans
 # Differential Gene Expression Analysis for *Candida albicans*
 
 This repository contains the code, data, and results for the differential gene expression (DGE) analysis of *Candida albicans*.
