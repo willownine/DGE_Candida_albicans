@@ -1,0 +1,19 @@
+sample	type	timepoint	replicate	strain
+X21_Ca_C2_0_IV_Rep1	control	0hrs	Rep1	candida albicans SC5314
+X21_Ca_C2_45_IV_Rep1	infection	45min	Rep1	candida albicans SC5314
+X21_Ca_C2_3_IV_Rep1	infection	3hrs	Rep1	candida albicans SC5314
+X21_Ca_C2_6_IV_Rep1	infection	6hrs	Rep1	candida albicans SC5314
+X21_Ca_C2_12_IV_Rep1	infection	12hrs	Rep1	candida albicans SC5314
+X21_Ca_C2_24_IV_Rep1	infection	24hrs	Rep1	candida albicans SC5314
+X21_Ca_C2_0_II_Rep2	control	0hrs	Rep2	candida albicans SC5314
+X21_Ca_C2_45_II_Rep2	infection	45min	Rep2	candida albicans SC5314
+X21_Ca_C2_3_II_Rep2	infection	3hrs	Rep2	candida albicans SC5314
+X21_Ca_C2_6_II_Rep2	infection	6hrs	Rep2	candida albicans SC5314
+X21_Ca_C2_12_II_Rep2	infection	12hrs	Rep2	candida albicans SC5314
+X21_Ca_C2_24_II_Rep2	infection	24hrs	Rep2	candida albicans SC5314
+X21_Ca_C2_0_V_Rep3	control	0hrs	Rep3	candida albicans SC5314
+X21_Ca_C2_45_V_Rep3	infection	45min	Rep3	candida albicans SC5314
+X21_Ca_C2_3_V_Rep3	infection	3hrs	Rep3	candida albicans SC5314
+X21_Ca_C2_6_V_Rep3	infection	6hrs	Rep3	candida albicans SC5314
+X21_Ca_C2_12_V_Rep3	infection	12hrs	Rep3	candida albicans SC5314
+X21_Ca_C2_24_V_Rep3	infection	24hrs	Rep3	candida albicans SC5314
