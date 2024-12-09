@@ -222,4 +222,5 @@ pca_3d_plot <- plot_ly(data = pca_data_3d,
 # Display the plot
 pca_3d_plot
 
+# note: change the pathways according to your file path
 # the end of DGE code
